@@ -1,7 +1,7 @@
 # Clonación de Interfaz de Google
 
 ## ÍNDICE
-*  [1. Intro](#)
+*  [1. Intro](https://github.com/dianamartinezrodri/ClonInterfazDeGoogle/blob/main/README.md#1-intro)
 *  [2. Qué construí](#)
 *  [3. Objetivo del proyecto](#)
 
@@ -21,5 +21,5 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de Google
 
 * **Footer**: Sección que incluye hipervínculos al final de la página.
 
-## 3.Objetivo del Proyecto
+## 3. Objetivo del Proyecto
 Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
