@@ -3,7 +3,7 @@
 ## ÍNDICE
 *  [1. Intro](https://github.com/dianamartinezrodri/ClonInterfazDeGoogle/blob/main/README.md#1-intro)
 *  [2. Qué construí](https://github.com/dianamartinezrodri/ClonInterfazDeGoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
-*  [3. Objetivo del proyecto](#)
+*  [3. Objetivo del proyecto](https://github.com/dianamartinezrodri/ClonInterfazDeGoogle/blob/main/README.md#3-objetivo-del-proyecto)
 
 ****
 
